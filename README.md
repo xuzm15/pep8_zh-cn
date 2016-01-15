@@ -12,7 +12,7 @@ PEP 0008 -- Python代码风格指南
 </tr>
 <tr>
 	<td><strong>作者：</strong></td>
-	<td>Guido van Rossum <guido at python.org>, Barry Warsaw <barry at python.org>, Nick Coghlan <ncoghlan at gmail.com></td>
+	<td>Guido van Rossum &ltguido at python.org&gt, Barry Warsaw &ltbarry at python.org&gt, Nick Coghlan &ltncoghlan at gmail.com&gt</td>
 </tr>
 <tr>
 	<td><strong>状态：</strong></td>
