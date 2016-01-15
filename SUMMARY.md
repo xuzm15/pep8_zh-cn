@@ -5,5 +5,4 @@
 * [介绍](introduction.md)
 * [愚蠢的一致性是不懂脑子人的失误](Foolish_Consistency.md)
 * [代码布局](code_layout.md)
-   * 缩进
 
