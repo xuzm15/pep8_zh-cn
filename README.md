@@ -1,4 +1,4 @@
-My Awesome Book
+PEP8 中文翻译
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+最近在看PEP8，见网上没有合适的中文版，遂翻译为中文，也是为了增加自己的阅读
