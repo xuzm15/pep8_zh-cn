@@ -1,10 +1,33 @@
-PEP8 中文翻译
+PEP 0008 -- Python代码风格指南
 =======
 
-最近在看PEP8，见网上没有合适的中文版，遂翻译为中文，也是为了增进自己的阅读
-
-作者：xythu
-
-日期：2016/01/15
-
-来源网址：[PEP 0008 -- Style Guide for  Python code](https://www.python.org/dev/peps/pep-0008/#copyright)
+<table>
+<tr>
+	<td><strong>PEP：</strong></td>
+	<td>8</td>
+</tr>
+<tr>
+	<td><strong>标题：</strong></td>
+	<td>Python代码风格指南</td>
+</tr>
+<tr>
+	<td><strong>作者：</strong></td>
+	<td>Guido van Rossum <guido at python.org>, Barry Warsaw <barry at python.org>, Nick Coghlan <ncoghlan at gmail.com></td>
+</tr>
+<tr>
+	<td><strong>状态：</strong></td>
+	<td>有效</td>
+</tr>
+<tr>
+	<td><strong>类型：</strong></td>
+	<td>过程</td>
+</tr>
+<tr>
+	<td><strong>创建日期：</strong></td>
+	<td>2001年7月5日</td>
+</tr>
+<tr>
+	<td><strong>修改历史日期：</strong></td>
+	<td>2001年7月5日，2013年8月1日</td>
+</tr>
+</table>
